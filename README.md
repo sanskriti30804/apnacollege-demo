@@ -1,3 +1,3 @@
 # apnacollege-demo
 my first git  repos
-author- sanskriti
+author- sanskriti (student)
